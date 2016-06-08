@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:25.201349
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:54
 #+TITLE: 攝大乘義章卷第四
 #+PROPERTY: CBETA_ID T85n2809
 #+PROPERTY: ID KR6n0070
